@@ -30,4 +30,4 @@
 - daixinqian@yeah.net
 - WeChat ID: Demix9
 
-GOOD Night, and GOOD LUCK!✨ 
+GOOD NIGHT, and GOOD LUCK!✨ 
