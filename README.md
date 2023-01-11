@@ -23,8 +23,8 @@
 - Machine Learning
 
 🛠 Professional Skills:
-- Proficient in Microsoft Office Set (Excel, Word, PowerPoint), R Language, Salesforce, Qualtrics, Canva
-- Basic skills of Python, Java
+- Microsoft Office Set (Excel, Word, PowerPoint), Salesforce, Qualtrics, Canva
+- R Language，Python, Java
 
 😄 Reach Me:
 - daixinqian@yeah.net
