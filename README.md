@@ -2,10 +2,9 @@
 
 🙋‍♀️ About Me:
 - Pronouns:She/Her/Hers
-- A motivated and passionate junior student with the intention of working in business research and analysis.
-- Bring forth a strong academic background and rich project experience in strategy.
+- A motivated and passionate senior student with the intention of working in business research and analytics.
+- Bring forth a strong academic background and rich project experience in quantitative analytics.
 - Possess the skills of creative thinking and problem solving through rich community activities.
-- Have strength in developing marketing research and analyzing data.
 
 📝 Pulication:
 “Customer Lifetime Value Analysis Based on Machine Learning,” ICISDM 2022, Silicon Valley, CA. DOI: 10.1145/3546157.3546160, The ACM Publishing System (TAPS).
