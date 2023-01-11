@@ -2,7 +2,7 @@
 
 🙋‍♀️ About Me:
 - Pronouns:She/Her/Hers
-- A motivated and passionate senior student with the intention of working in business research and analytics.
+- A motivated and passionate senior student with the intention of working in the field of data science.
 - Bring forth a strong academic background and rich project experience in quantitative analytics.
 - Possess the skills of creative thinking and problem solving through rich community activities.
 
