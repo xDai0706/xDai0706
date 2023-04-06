@@ -23,7 +23,7 @@
 
 🛠 Professional Skills:
 - Microsoft Office Set (Excel, Word, PowerPoint), Salesforce, Qualtrics, Canva
-- R Language，Python, Java
+- R Language，Python, Java，MatLab, SQL
 
 😄 Reach Me:
 - daixinqian@yeah.net
